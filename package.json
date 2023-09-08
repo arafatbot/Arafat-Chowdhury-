@@ -9,8 +9,8 @@
         "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
     },
     "repository": {
-        "type": "git+https://github.com/shaonahmed47/Shaon-bypass.git",
-        "url": "git+https://github.com/shaonahmed47/Shaon-bypass.git"
+        "type": "git+https://github.com/shaonahmed47/Shaon-bypass-.git",
+        "url": "git+https://github.com/shaonahmed47/Shaon-bypass-.git"
     },
     "author": "SHAON PROJECT",
     "license": "GPL-3.0",
